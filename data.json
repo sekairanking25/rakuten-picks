@@ -1,0 +1,47 @@
+[
+ {
+  "date": "2026-06-11",
+  "key": "beauty",
+  "series": "コスメ速報",
+  "title": "【売れてる】楽天で今バズり中のコスメTOP3 (6/11)",
+  "added_at": "2026-06-12T00:27:00",
+  "items": [
+   {
+    "name": "PDRNヒアルロン酸セラム",
+    "benefits": [
+     "ヒアルロン酸配合",
+     "コラーゲン配合"
+    ],
+    "price": 2800,
+    "review_average": 4.67,
+    "review_count": 2222,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/anuajapan/cabinet/11288031/pdrn_mainthumb.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u6mzn.gcupp7d7.g00u6mzn.gcupq4ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanuajapan%2Fanua00118%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanuajapan%2Fi%2F10000361%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "CICAリードル美容液",
+    "benefits": [
+     "15種から選べる",
+     "天然リードル配合"
+    ],
+    "price": 2970,
+    "review_average": 4.59,
+    "review_count": 1102,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/vtcosmetic-official/cabinet/reedleshot_option/700_basic_pdrn300.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tdwhn.gcupp3b9.g00tdwhn.gcupqd44/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fvtcosmetic-official%2Freedleshot_option%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fvtcosmetic-official%2Fi%2F10001697%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "プラセンタシートマスク",
+    "benefits": [
+     "プラセンタエキス50%",
+     "大容量30枚"
+    ],
+    "price": 1360,
+    "review_average": 4.62,
+    "review_count": 32910,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/q1st/cabinet/07300583/imgrc0098949703.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tcnin.gcupp201.g00tcnin.gcupq539/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fq1st%2F10000002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fq1st%2Fi%2F10000002%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   }
+  ]
+ }
+]
