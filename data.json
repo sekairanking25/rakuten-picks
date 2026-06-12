@@ -358,5 +358,50 @@
     "url": "https://hb.afl.rakuten.co.jp/hgc/g00uexxn.gcupp842.g00uexxn.gcupqafd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foujiseiyaku%2Farfum-et-100x3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foujiseiyaku%2Fi%2F10000473%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
    }
   ]
+ },
+ {
+  "date": "2026-06-12",
+  "key": "point_boost",
+  "series": "ポイント爆増",
+  "title": "【実質値引き】楽天ポイント爆増中の商品TOP3 (6/12)",
+  "added_at": "2026-06-12T13:03:42",
+  "items": [
+   {
+    "name": "トライバンドメッシュルーター",
+    "benefits": [
+     "最大5400Mbps",
+     "500平方メートル対応"
+    ],
+    "price": 19200,
+    "review_average": 4.72,
+    "review_count": 113,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/06321509/deco-xe75-2.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0n.gcuppf8e.g00sbb0n.gcupq93c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F4895252500622-a%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001239%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "吸汗速乾レギンス",
+    "benefits": [
+     "高い吸汗速乾性",
+     "4WAYストレッチ"
+    ],
+    "price": 3080,
+    "review_average": 4.53,
+    "review_count": 15,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/underarmour/cabinet/thumb_fix/12824364/u13585810090.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00tehin.gcuppcd5.g00tehin.gcupq354/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funderarmour%2Fu13585810090%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funderarmour%2Fi%2F10006993%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "パンチルト防犯カメラ",
+    "benefits": [
+     "360度首振り",
+     "自動追跡機能"
+    ],
+    "price": 3980,
+    "review_average": 4.59,
+    "review_count": 3879,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/tplinkdirect/cabinet/06321509/tapo-c200.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00sbb0n.gcuppf8e.g00sbb0n.gcupq93c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftplinkdirect%2F6935364053239-new%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftplinkdirect%2Fi%2F10001097%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   }
+  ]
  }
 ]
