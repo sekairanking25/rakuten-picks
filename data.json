@@ -1168,5 +1168,50 @@
     "url": "https://hb.afl.rakuten.co.jp/hgc/g00pw1cn.gcupp21c.g00pw1cn.gcupq211/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhotch-potch%2F00014170_stanley10827%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhotch-potch%2Fi%2F10017539%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
    }
   ]
+ },
+ {
+  "date": "2026-06-17",
+  "key": "price_drop",
+  "series": "値下げ速報",
+  "title": "【今安い】楽天で昨日より値下がりした商品TOP3 (6/17)",
+  "added_at": "2026-06-17T13:03:17",
+  "items": [
+   {
+    "name": "フレンチフライ5種セット",
+    "benefits": [
+     "5種類のフレーバー",
+     "サクサク食感"
+    ],
+    "price": 2490,
+    "review_average": 4.5,
+    "review_count": 230,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/r-food/cabinet/andthefriet/dd_andthe5pc_img01.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00txhbn.gcuppcf5.g00txhbn.gcupq57a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fr-food%2Frf-d-00377%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fr-food%2Fi%2F10000821%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "アーモンド小魚ミックス",
+    "benefits": [
+     "大容量320g",
+     "チャック付き"
+    ],
+    "price": 1090,
+    "review_average": 4.61,
+    "review_count": 1434,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/yummy39/cabinet/afv2/ng_afv3.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rkign.gcuppe69.g00rkign.gcupq41d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyummy39%2Falmondf_0003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyummy39%2Fi%2F10000008%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "衝撃吸収リカバリーサンダル",
+    "benefits": [
+     "衝撃37%軽減",
+     "土踏まずサポート"
+    ],
+    "price": 6980,
+    "review_average": 4.62,
+    "review_count": 60,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/z-craft/cabinet/1/10/1085/1085-0001-1c.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pjxhn.gcupp58e.g00pjxhn.gcupq41a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fz-craft%2F1085-0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fz-craft%2Fi%2F10102770%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   }
+  ]
  }
 ]
