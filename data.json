@@ -2419,5 +2419,50 @@
     "url": "https://hb.afl.rakuten.co.jp/hgc/g00qdzcn.gcupp778.g00qdzcn.gcupqaa7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Feclity%2Fdss-efpn26-iv%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Feclity%2Fi%2F10025758%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
    }
   ]
+ },
+ {
+  "date": "2026-06-24",
+  "key": "price_drop",
+  "series": "値下げ速報",
+  "title": "【今安い】楽天で昨日より値下がりした商品TOP3 (6/24)",
+  "added_at": "2026-06-24T13:04:17",
+  "items": [
+   {
+    "name": "瞬間冷感ポンチョ",
+    "benefits": [
+     "体感-16℃冷却",
+     "長時間冷感持続"
+    ],
+    "price": 2980,
+    "review_average": 4.67,
+    "review_count": 9,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/zozotop/cabinet/lgdl/lgdl-4.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00u0snn.gcupp9cb.g00u0snn.gcupq33f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fzozotop%2Flgdl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fzozotop%2Fi%2F10000502%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "厚肉クラリネットリード",
+    "benefits": [
+     "深く豊かな響き",
+     "安定したアタック"
+    ],
+    "price": 5016,
+    "review_average": 4.86,
+    "review_count": 7,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/shimokura-gakki/cabinet/wind/06840782/imgrc0095597510.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00qe1qn.gcupp456.g00qe1qn.gcupq6d1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshimokura-gakki%2Fvabbclav12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshimokura-gakki%2Fi%2F10026105%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "最新型ゲーム機",
+    "benefits": [
+     "日本語フル対応",
+     "1年保証付き"
+    ],
+    "price": 53099,
+    "review_average": 5.0,
+    "review_count": 3,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/lcs-live/cabinet/living/07009866/10230995/imgrc0332412876.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00r1fdn.gcuppf7b.g00r1fdn.gcupq353/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flcs-live%2F10018976%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flcs-live%2Fi%2F10018859%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   }
+  ]
  }
 ]
