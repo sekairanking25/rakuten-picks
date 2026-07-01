@@ -3676,5 +3676,50 @@
     "url": "https://hb.afl.rakuten.co.jp/hgc/g00u7fcn.gcupp376.g00u7fcn.gcupq8eb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsonic-store%2Fsp-engine4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsonic-store%2Fi%2F10000151%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
    }
   ]
+ },
+ {
+  "date": "2026-07-01",
+  "key": "price_drop",
+  "series": "値下げ速報",
+  "title": "【今安い】楽天で昨日より値下がりした商品TOP3 (7/1)",
+  "added_at": "2026-07-01T13:03:20",
+  "items": [
+   {
+    "name": "ハンズフリースニーカー",
+    "benefits": [
+     "ハンズフリー着脱",
+     "クッション性優秀"
+    ],
+    "price": 5291,
+    "review_average": 4.38,
+    "review_count": 87,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/supersportsxebio/cabinet/1/8020909_40/8863039_m.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00radhn.gcuppc33.g00radhn.gcupq06e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsupersportsxebio%2F108863039011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsupersportsxebio%2Fi%2F21243845%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "国産ブレンド白米",
+    "benefits": [
+     "国内産100%",
+     "30kg大容量"
+    ],
+    "price": 13380,
+    "review_average": 4.15,
+    "review_count": 557,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/yutakarice-miyagi/cabinet/09551513/imgrc0124420707.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00ub4yn.gcuppb54.g00ub4yn.gcupq7f0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyutakarice-miyagi%2F100000033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyutakarice-miyagi%2Fi%2F10000014%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "国産小粒ブレンド米",
+    "benefits": [
+     "24kg大容量",
+     "小粒で美味しい"
+    ],
+    "price": 9480,
+    "review_average": 4.12,
+    "review_count": 49,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/auc-inouebeikoku/cabinet/06315489/imgrc0102193895.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rxh8n.gcupp149.g00rxh8n.gcupq457/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-inouebeikoku%2F10000009-24%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-inouebeikoku%2Fi%2F10000036%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   }
+  ]
  }
 ]
