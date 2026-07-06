@@ -4663,5 +4663,50 @@
     "url": "https://hb.afl.rakuten.co.jp/hgc/g00qgixn.gcuppba6.g00qgixn.gcupq9d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Faromacoffee%2Fbd-4570117928833%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Faromacoffee%2Fi%2F10054786%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
    }
   ]
+ },
+ {
+  "date": "2026-07-07",
+  "key": "event_ochugen",
+  "series": "お中元ギフト特集",
+  "title": "【お中元まであと8日】そろそろ準備!人気ギフトTOP3 (7/7)",
+  "added_at": "2026-07-07T06:53:40",
+  "items": [
+   {
+    "name": "豚ひれローストポーク",
+    "benefits": [
+     "柔らかい食感",
+     "360g大容量"
+    ],
+    "price": 2650,
+    "review_average": 4.72,
+    "review_count": 2681,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/yonekyu/cabinet/events/260704_9thm.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00plfkn.gcuppcd2.g00plfkn.gcupq831/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyonekyu%2F10002024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyonekyu%2Fi%2F10002024%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "5種詰め合わせ洋菓子",
+    "benefits": [
+     "43個大容量",
+     "個包装仕様"
+    ],
+    "price": 3564,
+    "review_average": 4.63,
+    "review_count": 1050,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/yokumoku/cabinet/yokumoku_thumbnail/ec/10346714/ygnv-a_07_p10.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00rvx6n.gcuppb3a.g00rvx6n.gcupq407/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyokumoku%2F1010011213040%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyokumoku%2Fi%2F10000688%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   },
+   {
+    "name": "国産うなぎ蒲焼き",
+    "benefits": [
+     "特大170g",
+     "2本入りセット"
+    ],
+    "price": 5820,
+    "review_average": 4.74,
+    "review_count": 761,
+    "img": "https://thumbnail.image.rakuten.co.jp/@0_mall/kawasui/cabinet/ncimag00/1702sn_sale_601.jpg?_ex=400x400",
+    "url": "https://hb.afl.rakuten.co.jp/hgc/g00pvazn.gcuppd54.g00pvazn.gcupq9ab/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkawasui%2F10001109%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkawasui%2Fi%2F10001109%2F&rafcid=wsc_i_is_18ce445d-75c3-4087-b6c5-4946e120ca2b"
+   }
+  ]
  }
 ]
